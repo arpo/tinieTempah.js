@@ -1,5 +1,5 @@
 /*
- * tinyTemp
+ * tinieTempah.js
  * @version 0.1
  *
  * @author Mattias Johansson

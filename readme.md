@@ -1,7 +1,7 @@
 tinieTempah.js
 =================
 
-A tiny template engine. About 277 bytes gzipped in size.
+A tiny mustasch template engine. About 300 bytes gzipped in size.
 
 Basic usage:
 
