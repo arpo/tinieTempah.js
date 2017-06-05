@@ -3,7 +3,7 @@
  * @version 1.01
  *
  * @author Mattias Johansson
- * @copyright Copyright 2017, Licensed GPL & MIT
+ * @Copyright 2017, Licensed GPL & MIT
  */
 
 var tTemp = {
