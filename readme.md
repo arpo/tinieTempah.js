@@ -17,4 +17,4 @@ Or put the template in a script tag.
 
 Input data can also be an array.
 
-    var html = tTemp.render('HelloWorld', [{heading: 'Hello World'}, {heading: 'Hola  Mundi'}]);
+    var html = tTemp.render('HelloWorld', [{heading: 'Hello World'}, {heading: 'Hallå  eller'}]);
